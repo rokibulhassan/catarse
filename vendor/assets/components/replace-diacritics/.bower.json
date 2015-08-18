@@ -1,0 +1,13 @@
+{
+  "name": "replace-diacritics",
+  "_cacheHeaders": {
+    "ETag": "\"38edab499860ad7c6ee7f85f3511376e01a49356\"",
+    "Content-Length": "4028",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:38edab499",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/yvg/js-replace-diacritics/master/replace-diacritics.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/yvg/js-replace-diacritics/master/replace-diacritics.js"
+}
